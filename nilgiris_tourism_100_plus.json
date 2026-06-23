@@ -1,0 +1,1930 @@
+{
+  "metadata": {
+    "destination": "Nilgiris Tourism",
+    "version": "1.0",
+    "record_count": 101,
+    "last_updated": "2026-06-21",
+    "note": "Verify timings, entry fees, coordinates and permits before using in production."
+  },
+  "places": [
+    {
+      "id": "nilgiris_001",
+      "name": "Government Botanical Garden",
+      "town": "Ooty",
+      "category": "garden",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Government Botanical Garden is a popular garden destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_002",
+      "name": "Ooty Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ooty Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_003",
+      "name": "Doddabetta Peak",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Doddabetta Peak is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_004",
+      "name": "Government Rose Garden",
+      "town": "Ooty",
+      "category": "garden",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Government Rose Garden is a popular garden destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_005",
+      "name": "Nilgiri Mountain Railway",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Nilgiri Mountain Railway is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_006",
+      "name": "Tea Museum and Factory",
+      "town": "Ooty",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Tea Museum and Factory is a popular museum destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_007",
+      "name": "Thread Garden",
+      "town": "Ooty",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Thread Garden is a popular museum destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_008",
+      "name": "St. Stephen's Church",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "St. Stephen's Church is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_009",
+      "name": "Pine Forest",
+      "town": "Ooty",
+      "category": "forest",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pine Forest is a popular forest destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_010",
+      "name": "Wenlock Downs",
+      "town": "Ooty",
+      "category": "grassland",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Wenlock Downs is a popular grassland destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_011",
+      "name": "Avalanche Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Avalanche Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_012",
+      "name": "Emerald Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Emerald Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_013",
+      "name": "Upper Bhavani Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Upper Bhavani Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_014",
+      "name": "Ooty Stone House",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ooty Stone House is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_015",
+      "name": "Government Museum Ooty",
+      "town": "Ooty",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Government Museum Ooty is a popular museum destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_016",
+      "name": "Karnataka Siri Horticulture Garden",
+      "town": "Ooty",
+      "category": "garden",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Karnataka Siri Horticulture Garden is a popular garden destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_017",
+      "name": "Boat House Ooty",
+      "town": "Ooty",
+      "category": "recreation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Boat House Ooty is a popular recreation destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_018",
+      "name": "Tiger Hill",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Tiger Hill is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_019",
+      "name": "Annamalai Murugan Temple",
+      "town": "Ooty",
+      "category": "temple",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Annamalai Murugan Temple is a popular temple destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_020",
+      "name": "Ketti Valley View",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ketti Valley View is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_021",
+      "name": "Shooting Point",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Shooting Point is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_022",
+      "name": "6th Mile Viewpoint",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "6th Mile Viewpoint is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_023",
+      "name": "9th Mile Shooting Spot",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "9th Mile Shooting Spot is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_024",
+      "name": "Pykara Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pykara Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_025",
+      "name": "Pykara Falls",
+      "town": "Ooty",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pykara Falls is a popular waterfall destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_026",
+      "name": "Mukurthi National Park",
+      "town": "Ooty",
+      "category": "wildlife",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Mukurthi National Park is a popular wildlife destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_027",
+      "name": "Parsons Valley Reservoir",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Parsons Valley Reservoir is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_028",
+      "name": "Toda Huts",
+      "town": "Ooty",
+      "category": "cultural",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Toda Huts is a popular cultural destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_029",
+      "name": "Elk Hill Murugan Temple",
+      "town": "Ooty",
+      "category": "temple",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Elk Hill Murugan Temple is a popular temple destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_030",
+      "name": "Tribal Research Centre",
+      "town": "Ooty",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Tribal Research Centre is a popular museum destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_031",
+      "name": "Sim's Park",
+      "town": "Coonoor",
+      "category": "garden",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Sim's Park is a popular garden destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_032",
+      "name": "Dolphin's Nose",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Dolphin's Nose is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_033",
+      "name": "Lamb's Rock",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Lamb's Rock is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_034",
+      "name": "Catherine Falls",
+      "town": "Coonoor",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Catherine Falls is a popular waterfall destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_035",
+      "name": "Hidden Valley",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Hidden Valley is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_036",
+      "name": "Droog Fort",
+      "town": "Coonoor",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Droog Fort is a popular heritage destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_037",
+      "name": "Laws Falls",
+      "town": "Coonoor",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Laws Falls is a popular waterfall destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_038",
+      "name": "Rallia Dam",
+      "town": "Coonoor",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Rallia Dam is a popular lake destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_039",
+      "name": "Highfield Tea Factory",
+      "town": "Coonoor",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Highfield Tea Factory is a popular museum destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_040",
+      "name": "Pasteur Institute",
+      "town": "Coonoor",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pasteur Institute is a popular heritage destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_041",
+      "name": "Lady Canning's Seat",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Lady Canning's Seat is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_042",
+      "name": "Wellington Golf Course",
+      "town": "Coonoor",
+      "category": "recreation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Wellington Golf Course is a popular recreation destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_043",
+      "name": "Black Thunder Viewpoint",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Black Thunder Viewpoint is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_044",
+      "name": "Longwood Shola",
+      "town": "Kotagiri",
+      "category": "forest",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Longwood Shola is a popular forest destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_045",
+      "name": "Kodanad View Point",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kodanad View Point is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_046",
+      "name": "Rangaswamy Peak",
+      "town": "Kotagiri",
+      "category": "trek",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Rangaswamy Peak is a popular trek destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_047",
+      "name": "Rangaswamy Pillar",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Rangaswamy Pillar is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_048",
+      "name": "Catherine Waterfalls Viewpoint",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Catherine Waterfalls Viewpoint is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_049",
+      "name": "Elk Falls",
+      "town": "Kotagiri",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Elk Falls is a popular waterfall destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_050",
+      "name": "John Sullivan Memorial",
+      "town": "Kotagiri",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "John Sullivan Memorial is a popular heritage destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_051",
+      "name": "Uyilatti Waterfalls",
+      "town": "Kotagiri",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Uyilatti Waterfalls is a popular waterfall destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_052",
+      "name": "Tea Estates Kotagiri",
+      "town": "Kotagiri",
+      "category": "plantation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Tea Estates Kotagiri is a popular plantation destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_053",
+      "name": "Kotagiri View Point",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kotagiri View Point is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_054",
+      "name": "Needle Rock View Point",
+      "town": "Gudalur",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Needle Rock View Point is a popular viewpoint destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_055",
+      "name": "Mudumalai Tiger Reserve",
+      "town": "Gudalur",
+      "category": "wildlife",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Mudumalai Tiger Reserve is a popular wildlife destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_056",
+      "name": "Theppakadu Elephant Camp",
+      "town": "Gudalur",
+      "category": "wildlife",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Theppakadu Elephant Camp is a popular wildlife destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_057",
+      "name": "Moyar River",
+      "town": "Gudalur",
+      "category": "river",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Moyar River is a popular river destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_058",
+      "name": "Moyar Gorge",
+      "town": "Gudalur",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Moyar Gorge is a popular viewpoint destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_059",
+      "name": "Frog Hill View Point",
+      "town": "Gudalur",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Frog Hill View Point is a popular viewpoint destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_060",
+      "name": "Devala Tea Estates",
+      "town": "Gudalur",
+      "category": "plantation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Devala Tea Estates is a popular plantation destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_061",
+      "name": "Needle Rock Forest View",
+      "town": "Gudalur",
+      "category": "forest",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Needle Rock Forest View is a popular forest destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_062",
+      "name": "Bandipur Border Point",
+      "town": "Gudalur",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Bandipur Border Point is a popular viewpoint destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_063",
+      "name": "Glenmorgan Tea Estate",
+      "town": "Ooty",
+      "category": "plantation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Glenmorgan Tea Estate is a popular plantation destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_064",
+      "name": "Glenmorgan Dam",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Glenmorgan Dam is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_065",
+      "name": "Kamraj Sagar Dam",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kamraj Sagar Dam is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_066",
+      "name": "First World War Memorial",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "First World War Memorial is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_067",
+      "name": "Thunder World",
+      "town": "Ooty",
+      "category": "theme_park",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Thunder World is a popular theme park destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_068",
+      "name": "Wax World Museum",
+      "town": "Ooty",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Wax World Museum is a popular museum destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_069",
+      "name": "Children's Park Ooty",
+      "town": "Ooty",
+      "category": "park",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Children's Park Ooty is a popular park destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_070",
+      "name": "Mini Garden Ooty",
+      "town": "Ooty",
+      "category": "garden",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Mini Garden Ooty is a popular garden destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_071",
+      "name": "Marlimund Lake",
+      "town": "Ooty",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Marlimund Lake is a popular lake destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_072",
+      "name": "Kalhatty Falls",
+      "town": "Ooty",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kalhatty Falls is a popular waterfall destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_073",
+      "name": "Kalhatty Ghat View",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kalhatty Ghat View is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_074",
+      "name": "Kandal Cross Shrine",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kandal Cross Shrine is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_075",
+      "name": "Adam's Fountain",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Adam's Fountain is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_076",
+      "name": "Honeymoon Boat House",
+      "town": "Ooty",
+      "category": "recreation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Honeymoon Boat House is a popular recreation destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_077",
+      "name": "Kamaraj Sagar Viewpoint",
+      "town": "Ooty",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kamaraj Sagar Viewpoint is a popular viewpoint destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_078",
+      "name": "Tea Park Ooty",
+      "town": "Ooty",
+      "category": "park",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Tea Park Ooty is a popular park destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_079",
+      "name": "Ooty Observatory Site",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ooty Observatory Site is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_080",
+      "name": "Glen Park",
+      "town": "Ooty",
+      "category": "park",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Glen Park is a popular park destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_081",
+      "name": "Coonoor Railway Station",
+      "town": "Coonoor",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Coonoor Railway Station is a popular heritage destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_082",
+      "name": "Ooty Railway Station",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ooty Railway Station is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_083",
+      "name": "Lovedale Railway Station",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Lovedale Railway Station is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_084",
+      "name": "Ketti Railway Station",
+      "town": "Ooty",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ketti Railway Station is a popular heritage destination in Ooty.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_085",
+      "name": "Aravenu View Point",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Aravenu View Point is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_086",
+      "name": "Jackatalla Railway Museum",
+      "town": "Coonoor",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Jackatalla Railway Museum is a popular museum destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_087",
+      "name": "Burliar View Point",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Burliar View Point is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_088",
+      "name": "Katary Falls",
+      "town": "Coonoor",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Katary Falls is a popular waterfall destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_089",
+      "name": "Bison Valley",
+      "town": "Coonoor",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Bison Valley is a popular viewpoint destination in Coonoor.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_090",
+      "name": "Kolakambai Falls",
+      "town": "Kotagiri",
+      "category": "waterfall",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Kolakambai Falls is a popular waterfall destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_091",
+      "name": "Jaccanari View Point",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Jaccanari View Point is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_092",
+      "name": "Pandiar Hills",
+      "town": "Kotagiri",
+      "category": "trek",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pandiar Hills is a popular trek destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_093",
+      "name": "Needle Industries Heritage Site",
+      "town": "Kotagiri",
+      "category": "heritage",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Needle Industries Heritage Site is a popular heritage destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_094",
+      "name": "Masinagudi Safari Zone",
+      "town": "Gudalur",
+      "category": "wildlife",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Masinagudi Safari Zone is a popular wildlife destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_095",
+      "name": "Singara Tea Estate",
+      "town": "Gudalur",
+      "category": "plantation",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Singara Tea Estate is a popular plantation destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_096",
+      "name": "Mavanallah Dam",
+      "town": "Gudalur",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Mavanallah Dam is a popular lake destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_097",
+      "name": "Mudumalai Museum",
+      "town": "Gudalur",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Mudumalai Museum is a popular museum destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_098",
+      "name": "Cherambadi View Point",
+      "town": "Gudalur",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Cherambadi View Point is a popular viewpoint destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_099",
+      "name": "Thorapalli Dam",
+      "town": "Gudalur",
+      "category": "lake",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Thorapalli Dam is a popular lake destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_100",
+      "name": "Pandalur Tea Museum",
+      "town": "Gudalur",
+      "category": "museum",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Pandalur Tea Museum is a popular museum destination in Gudalur.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    },
+    {
+      "id": "nilgiris_101",
+      "name": "Ouchterlony Valley View",
+      "town": "Kotagiri",
+      "category": "viewpoint",
+      "district": "The Nilgiris",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "description": "Ouchterlony Valley View is a popular viewpoint destination in Kotagiri.",
+      "best_time_to_visit": "October to June",
+      "entry_fee_inr": "Verify before travel",
+      "timings": "Verify before travel",
+      "estimated_visit_duration_hours": 2,
+      "source_priority": [
+        "Tamil Nadu Tourism",
+        "Nilgiris District Administration",
+        "OpenStreetMap"
+      ]
+    }
+  ]
+}
